@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning: I'm learning about microservices development and the architecture of ports and adapters.
   
-- 👯 I’m looking to collaborate on: I'm interested in collaborating in projects related to competitive programming and algorithms.
+- 👯 I’m looking to collaborate on: I'm interested in collaborating in projects related to competitive programming, open source and algorithms.
   
 - 📫 How to reach me: **heinnervega20@gmail.com**
 
