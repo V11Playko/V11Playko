@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Heinner Vega</h1>
-<h3 align="center">A passionate Backend Developer from Colombia</h3>
+<h1 align="center">Hola 👋, soy Heinner Vega</h1>
+<h3 align="center">Un apasionado Desarrollador Backend de Colombia</h3>
 
-- 🔭 I’m currently working on [food-court](https://github.com/V11Playko/Plazoleta-Service)
+- 🔭 Actualmente estoy trabajando en [Task Flow](https://github.com/V11Playko/Project-Management-with-Hexagonal-Architecture-and-GraphQL)
   
-- 👨‍💻 All of my projects are available at [https://github.com/V11Playko](https://github.com/V11Playko?tab=repositories)
-  
-- 🌱 I’m currently learning: I'm learning about microservices development and the architecture of ports and adapters.
-  
-- 👯 I’m looking to collaborate on: I'm interested in collaborating in projects related to competitive programming, open source and algorithms.
-  
-- 📫 How to reach me: **heinnervega20@gmail.com**
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/V11Playko](https://github.com/V11Playko?tab=repositories)  
+
+- 🌱 Actualmente estoy aprendiendo sobre el desarrollo de microservicios y la arquitectura de puertos y adaptadores.  
+
+- 👯 Me gustaría colaborar en proyectos relacionados con programación competitiva, open source y algoritmos.  
+
+- 📫 Cómo contactarme: **heinnervega20@gmail.com**  
 
 
 <h3 align="left">Connect with me:</h3>
